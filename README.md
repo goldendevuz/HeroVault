@@ -14,4 +14,3 @@ pip install -r requirements.txt
 ```bash
 python scripts/run_heroes.py
 ```
-# HeroVault
